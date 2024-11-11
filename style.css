@@ -1,0 +1,21 @@
+body {
+    font-family: 'Pangolin', cursive; /* Menggunakan font Pangolin */
+    margin: 0;
+    padding: 0;
+    background-color: #b5deb8;
+    color: #333;
+}
+
+header {
+    font-family: 'Dancing Script', cursive;
+    background-color: hsl(120, 30%, 50%); 
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pangolin', cursive; 
+    color: #fefefe;
+    text-align: center;
+}
